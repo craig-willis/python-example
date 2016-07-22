@@ -1,0 +1,1 @@
+class Hello:    def demo(self):        print("hello")Hello().demo()
